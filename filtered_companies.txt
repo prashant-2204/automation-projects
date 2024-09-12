@@ -1,0 +1,51 @@
+Company: Affinsys AI Pvt Ltd   CTC: 14 LPA   Date of Visit: 10-09-2023   Selected: 1   Applied: 259
+Company: AiDash   CTC: 16 LPA   Date of Visit: 28-11-2023   Selected: 1   Applied: 670
+Company: Amazon   CTC: 32 LPA   Date of Visit: 06-11-2023   Selected: 5   Applied: 2138
+Company: ARM Embedded Technologies Pvt. Ltd.   CTC: 34.21 LPA   Date of Visit: 15-02-2023   Selected: 3   Applied: 852
+Company: Barclays   CTC: 15 LPA   Date of Visit: 14-10-2022   Selected: 44   Applied: 2022
+Company: BNY Mellon   CTC: 21.64 LPA   Date of Visit: 25-07-2023   Selected: 11   Applied: 2392
+Company: Capslock Marketplaces Private Limited (VoiceClub)   CTC: 15 LPA   Date of Visit: 06-03-2024   Selected: 1   Applied: 1
+Company: Cleartax   CTC: 20 LPA   Date of Visit: 02-12-2023   Selected: 0   Applied: 1831
+Company: COMMVAULT   CTC: 32.7 LPA   Date of Visit: 20-07-2023   Selected: 0   Applied: 758
+Company: Cradle point   CTC: 16.63 LPA   Date of Visit: 10-10-2023   Selected: 0   Applied: 2620
+Company: Databricks   CTC: 23.27 LPA   Date of Visit: 10-08-2023   Selected: 3   Applied: 1119
+Company: D E Shaw & Co   CTC: 52 LPA   Date of Visit: 14-09-2023   Selected: 1   Applied: 2501
+Company: D E Shaw & Co   CTC: 52 LPA   Date of Visit: 23-06-2022   Selected: 1   Applied: 1347
+Company: Electronic Arts (Ea)   CTC: 32 LPA   Date of Visit: 18-12-2023   Selected: 1   Applied: 1
+Company: FactWise   CTC: 40 LPA   Date of Visit: 05-08-2023   Selected: 4   Applied: 2058
+Company: Gen Digital   CTC: 20 LPA   Date of Visit: 28-09-2023   Selected: 10   Applied: 2946
+Company: Hike   CTC: 35.7 LPA   Date of Visit: 07-03-2023   Selected: 0   Applied: 1829
+Company: Hyperverge   CTC: 14 LPA   Date of Visit: 08-08-2023   Selected: 2   Applied: 894
+Company: Infineon Technologies   CTC: 17 LPA   Date of Visit: 07-06-2023   Selected: 0   Applied: 12
+Company: Ion Group   CTC: 14 LPA   Date of Visit: 01-08-2023   Selected: 5   Applied: 2236
+Company: Ivykids (formerly known as Yellow Class)   CTC: 15 LPA   Date of Visit: 12-09-2023   Selected: 1   Applied: 2264
+Company: JUNGLEE GAMES   CTC: 23 LPA   Date of Visit: 18-07-2023   Selected: 6   Applied: 1961
+Company: Jupiter Meta   CTC: 18 LPA   Date of Visit: 16-10-2023   Selected: 2   Applied: 3275
+Company: JUSPAY   CTC: 21 LPA   Date of Visit: 03-06-2023   Selected: 0   Applied: 2072
+Company: Kickdrum   CTC: 16 LPA   Date of Visit: 03-08-2023   Selected: 1   Applied: 1530
+Company: Kuddle   CTC: 20 LPA   Date of Visit: 19-06-2023   Selected: 1   Applied: 2761
+Company: Micron Technology   CTC: 16.6 LPA   Date of Visit: 04-08-2023   Selected: 1   Applied: 16
+Company: Micron Technology   CTC: 16.6 LPA   Date of Visit: 04-08-2023   Selected: 1   Applied: 16
+Company: Natwest Group   CTC: 14.65 LPA   Date of Visit: 11-08-2023   Selected: 9   Applied: 2812
+Company: Oracle   CTC: 30.5 LPA   Date of Visit: 31-07-2023   Selected: 6   Applied: 968
+Company: PayPal   CTC: 34.4 LPA   Date of Visit: 10-01-2024   Selected: 2   Applied: 2
+Company: Philips   CTC: 14.5 LPA   Date of Visit: 14-08-2023   Selected: 5   Applied: 3152
+Company: Philips   CTC: 15 LPA   Date of Visit: 10-06-2023   Selected: 1   Applied: 24
+Company: PingSafe   CTC: 20 LPA   Date of Visit: 28-07-2023   Selected: 3   Applied: 3145
+Company: Play Simple Games   CTC: 14 LPA   Date of Visit: 09-03-2023   Selected: 0   Applied: 1455
+Company: Porter   CTC: 18 LPA   Date of Visit: 08-01-2024   Selected: 3   Applied: 1633
+Company: Richpanel   CTC: 20 LPA   Date of Visit: 04-08-2023   Selected: 0   Applied: 210
+Company: Sabre   CTC: 15.29 LPA   Date of Visit: 09-09-2023   Selected: 5   Applied: 3095
+Company: Scaler   CTC: 24 LPA   Date of Visit: 17-02-2023   Selected: 1   Applied: 2144
+Company: ServiceNow   CTC: 42.6 LPA   Date of Visit: 12-04-2024   Selected: 1   Applied: 50
+Company: ServiceNow   CTC: 17.65 LPA   Date of Visit: 05-10-2023   Selected: 8   Applied: 266
+Company: Shipsy   CTC: 16 LPA   Date of Visit: 27-03-2024   Selected: 4   Applied: 1559
+Company: SquadCast   CTC: 20.04 LPA   Date of Visit: 15-06-2023   Selected: 1   Applied: 1771
+Company: Swym Corporation   CTC: 17 LPA   Date of Visit: 24-07-2023   Selected: 2   Applied: 2778
+Company: Sybyl Limited   CTC: 41.46 LPA   Date of Visit: 05-03-2024   Selected: 1   Applied: 230
+Company: Trilogy Innovations   CTC: 36.5 LPA   Date of Visit: 10-10-2023   Selected: 0   Applied: 1966
+Company: UiPath   CTC: 17 LPA   Date of Visit: 22-08-2023   Selected: 1   Applied: 2039
+Company: ValueLabs   CTC: 16 LPA   Date of Visit: 20-11-2023   Selected: 3   Applied: 582
+Company: WellsFargo   CTC: 24 LPA   Date of Visit: 07-09-2023   Selected: 13   Applied: 2484
+Company: Xperi INC   CTC: 14 LPA   Date of Visit: 07-07-2023   Selected: 1   Applied: 505
+Company: ZSAssociatesIndia Pvt. Ltd.   CTC: 15 LPA   Date of Visit: 23-07-2023   Selected: 66   Applied: 2858

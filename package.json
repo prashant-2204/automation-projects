@@ -1,0 +1,19 @@
+{
+  "name": "fetch-srm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "jsdom": "^25.0.0",
+    "node-fetch": "^3.3.2"
+  }
+}
